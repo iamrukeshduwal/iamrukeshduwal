@@ -40,15 +40,15 @@
       <span style="margin-left: 5px;">TensorFlow</span>
     </div>
     <div style="display: flex; align-items: center;">
-      <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch" style="width: 25px; height: 25px;"/>
+      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" style="width: 25px; height: 25px;"/>
       <span style="margin-left: 5px;">PyTorch</span>
     </div>
     <div style="display: flex; align-items: center;">
-      <img src="https://img.icons8.com/ios/50/000000/opencv.png" alt="OpenCV" style="width: 25px; height: 25px;"/>
+      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" style="width: 25px; height: 25px;"/>
       <span style="margin-left: 5px;">OpenCV</span>
     </div>
     <div style="display: flex; align-items: center;">
-      <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-machine-learning-with-python-to-create-your-portfolio-machine-learning-shadow-tal-revivo.png" alt="Machine Learning" style="width: 25px; height: 25px;"/>
+      <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="Machine Learning" style="width: 25px; height: 25px;"/>
       <span style="margin-left: 5px;">Machine Learning</span>
     </div>
     <div style="display: flex; align-items: center;">
@@ -56,7 +56,7 @@
       <span style="margin-left: 5px;">Deep Learning</span>
     </div>
     <div style="display: flex; align-items: center;">
-      <img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-computer-vision-artificial-intelligence-justicon-flat-justicon.png" alt="Computer Vision" style="width: 25px; height: 25px;"/>
+      <img src="https://crimsontech.io/assets/images/vision.png" alt="Computer Vision" style="width: 25px; height: 25px;"/>
       <span style="margin-left: 5px;">Computer Vision</span>
     </div>
     <div style="display: flex; align-items: center;">

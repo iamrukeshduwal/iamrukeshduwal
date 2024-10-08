@@ -26,16 +26,46 @@
   <p>Phone: <span style="color: #0a66c2;">+977 9802004681</span></p>
 
   <h2>⚡ Skills & Technologies</h2>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <span style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">Python</span>
-    <span style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">C++</span>
-    <span style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">TensorFlow</span>
-    <span style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">PyTorch</span>
-    <span style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">OpenCV</span>
-    <span style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">Machine Learning</span>
-    <span style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">Deep Learning</span>
-    <span style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">Computer Vision</span>
-    <span style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">Java</span>
-    <span style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">Software Development</span>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+    <div style="display: flex; align-items: center;">
+      <img src="https://img.icons8.com/fluency/48/000000/python.png" alt="Python" style="width: 25px; height: 25px;"/>
+      <span style="margin-left: 5px;">Python</span>
+    </div>
+    <div style="display: flex; align-items: center;">
+      <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" style="width: 25px; height: 25px;"/>
+      <span style="margin-left: 5px;">C++</span>
+    </div>
+    <div style="display: flex; align-items: center;">
+      <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" style="width: 25px; height: 25px;"/>
+      <span style="margin-left: 5px;">TensorFlow</span>
+    </div>
+    <div style="display: flex; align-items: center;">
+      <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch" style="width: 25px; height: 25px;"/>
+      <span style="margin-left: 5px;">PyTorch</span>
+    </div>
+    <div style="display: flex; align-items: center;">
+      <img src="https://img.icons8.com/ios/50/000000/opencv.png" alt="OpenCV" style="width: 25px; height: 25px;"/>
+      <span style="margin-left: 5px;">OpenCV</span>
+    </div>
+    <div style="display: flex; align-items: center;">
+      <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-machine-learning-with-python-to-create-your-portfolio-machine-learning-shadow-tal-revivo.png" alt="Machine Learning" style="width: 25px; height: 25px;"/>
+      <span style="margin-left: 5px;">Machine Learning</span>
+    </div>
+    <div style="display: flex; align-items: center;">
+      <img src="https://img.icons8.com/nolan/64/artificial-intelligence.png" alt="Deep Learning" style="width: 25px; height: 25px;"/>
+      <span style="margin-left: 5px;">Deep Learning</span>
+    </div>
+    <div style="display: flex; align-items: center;">
+      <img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-computer-vision-artificial-intelligence-justicon-flat-justicon.png" alt="Computer Vision" style="width: 25px; height: 25px;"/>
+      <span style="margin-left: 5px;">Computer Vision</span>
+    </div>
+    <div style="display: flex; align-items: center;">
+      <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" style="width: 25px; height: 25px;"/>
+      <span style="margin-left: 5px;">Java</span>
+    </div>
+    <div style="display: flex; align-items: center;">
+      <img src="https://img.icons8.com/color/48/000000/source-code.png" alt="Software Development" style="width: 25px; height: 25px;"/>
+      <span style="margin-left: 5px;">Software Development</span>
+    </div>
   </div>
 </div>
